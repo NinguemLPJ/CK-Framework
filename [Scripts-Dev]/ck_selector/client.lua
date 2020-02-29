@@ -1,8 +1,8 @@
 local Tunnel = module('_core', 'libs/Tunnel')
 local Proxy = module('_core', 'libs/Proxy')
 
-API = Tunnel.getInterface('API')
-cAPI = Proxy.getInterface('API')
+cAPI = Tunnel.getInterface('API')
+API = Proxy.getInterface('API')
 
 RegisterNetEvent('ck_selector:createSelectorClient')
 AddEventHandler('ck_selector:createSelectorClient', function(listcharacters)
