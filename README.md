@@ -9,8 +9,7 @@ CK-Framework has its own [Official Discord](https://discord.io/ckframework).
 
 ### Gamemode Setup & Installation
 
-# DON'T USE XAMP!!
-# Use MariaDB: https://mariadb.org/download/
+# MariaDB 10.4 or higher
 
 #### Installing
 
